@@ -1,0 +1,63 @@
+
+
+
+*{margin:0 ;
+padding: 0;
+box-sizing: border-box;}
+
+header {
+height: 100px;
+background-color: pink;
+}
+
+li {
+display: inline-block;
+font-size:20px;
+margin-left: 10.375rem;
+margin-top: 39px;
+color: white;
+}
+
+div{
+ display: inline-block;
+margin-left:7.438rem;
+margin-top: 40px;
+
+}
+
+h3,button{
+    margin-left: 80px;
+    font-size: 15px;
+    color: white;
+    background-color: pink;
+ 
+}
+
+form{
+    margin-left: 40px;
+    font-size: 14px;
+    margin-top: 10px;
+
+    }
+
+img{
+    width: 180px;
+}
+
+h2,button {
+background-color: pink;
+font-size: 17px;
+}
+
+footer{
+    height: 100px;
+    background-color: pink;
+    margin-top: 60px;
+
+}
+.formfoot{
+ margin-left: 20rem;
+ padding-left: 50px;
+ padding-top: 30px;
+
+}
